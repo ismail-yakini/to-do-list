@@ -158,7 +158,7 @@ void Menu(){
 	}
 }
 
-// The main hahaha
+// The main
 int main(){	
 	Menu();
 	return 0;

@@ -1,4 +1,4 @@
-# Make file hahaha
+# A simple Makefile 
 all:
 	gcc main.c src/date_time.c src/to_do_list.c -o main
 exec:
