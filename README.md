@@ -10,7 +10,7 @@
   * #### The setting function.
 - ## The `Makefile` :
     * ####   A simple make file 8-).
-> ## The **++folders++** :
+> ## The **folders** :
 >>   ### 1. The folder [ **headers** ] :
 >>>    * #### The `date_time.h` :
 >>>>   ##### Contains the functions declaration of the the date and the time.     
