@@ -1,3 +1,5 @@
+
+
 # To Do List & Digit Clock
 ### Simple project of a to do list with a digit clock Using **The C programming language**.
 
@@ -8,7 +10,7 @@
   * #### The setting function.
 - ## The `Makefile` :
     * ####   A simple make file 8-).
-> ## The ++**folders**++ :
+> ## The **++folders++** :
 >>   ### 1. The folder [ **headers** ] :
 >>>    * #### The `date_time.h` :
 >>>>   ##### Contains the functions declaration of the the date and the time.     
@@ -22,3 +24,4 @@
 >>   ### 3. The folder [ **database** ] :
 >>>    * #### The `data.txt` :
 >>>>   ##### The tasks will be stored on that file, there is another file `data2.txt` will be created when the user will remove or modify the tasks but after the operation it will be renamed and the first one will be removed.
+
