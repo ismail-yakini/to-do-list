@@ -1,6 +1,6 @@
 #include "../headers/date_time.h"
 
-char buffer[100];
+char buffer[100]; 
 
 // This function displays the date on the screen
 void print_date(){
