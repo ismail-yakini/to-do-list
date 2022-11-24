@@ -4,11 +4,8 @@
 #include <signal.h> 
 #include <stdbool.h> 
 
-
-
 #include "headers/date_time.h"
 #include "headers/to_do_list.h"
-
 
 void signal_handler();
 void Menu();
@@ -31,7 +28,7 @@ int to_do_list(){
 	FILE *file = open_file("database/data.txt", "r");
 	if (signal(SIGINT, signal_handler) == SIG_ERR) { 
     	fprintf(stderr, "signal func registration failed\n"); 
-    	return 1; 
+    	return 1;
 	} 
  	while(1){
 		sleep(1);
