@@ -7,7 +7,7 @@
 #define buffer_size 1024
 char buffer[buffer_size];
 
-void setting();
+void setting(); 
 FILE *open_file();
 int task_exist(FILE *file);
 int print_tasks(FILE *file);
